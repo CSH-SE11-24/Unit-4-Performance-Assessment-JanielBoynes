@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: gray !important;
+}
+.card{
+  background-color:#d01616 !important;
+}
+.card-text{
+  color:white !important;
+}
